@@ -167,3 +167,10 @@ useEffect(() => {
 ### Single Photo Screen:
 
 ![](https://github.com/s1een/react-native-gallery-app/blob/master/img/single.jpg?raw=true)
+
+## My Links
+[My LinkedIn](https://www.linkedin.com/in/dmitry-morozov-082288228/ "My LinkedIn")
+
+[My Telegram](https://t.me/r3ason_why "My Telegram")
+
+[My Portfolio](https://s1een.github.io/my_cv_site/ "My Portfolio")
