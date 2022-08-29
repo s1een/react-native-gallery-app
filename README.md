@@ -1,6 +1,6 @@
 ### About
 
-- This React Native application was created as a result of a test task for QuliSoft IT company.
+- This React Native application was created as a result of a test task for IT company.
 - This application is designed to view pictures from Unsplash.
 - App can be tested by [QR-code](https://expo.dev/@r3ason_why/react-photo-app "QR-code")
 
